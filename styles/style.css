@@ -37,7 +37,7 @@ body{
     margin-bottom: 1.2rem;
 }
 .firstcomp, .second {
-    max-width: 93%;
+    max-width: 90%;
     margin: 1rem auto;
     display: flex;
     flex-direction: column;
